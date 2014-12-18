@@ -25,7 +25,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'MovieReviewDB',
 			'username'  => 'root',
-			'password'  => 'root',
+			'password'  => 'h3V4Nl4Sw7',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
